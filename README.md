@@ -1,8 +1,5 @@
 ### Hola, I'm Subash Sunar! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning cybersecurity
 - 👯 I’m looking to collaborate on ...
