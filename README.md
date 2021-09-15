@@ -1,9 +1,9 @@
 ### Hola, I'm Subash Sunar! 👋
 
-- 🔭 I’m currently working on ...
+##I'm a student and CyberSecurity Enthusiast 
+- 🔭 I’m currently working on open source project
 - 🌱 I’m currently learning cybersecurity
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate with other  CyberSecurity Enthusiast 
 - 💬 Ask me about cybersecurity and any tech related stuff.
 - 📫 How to reach me: Email- subash.sunar0000@gmail.com
 - 😄 Pronouns: He/His
